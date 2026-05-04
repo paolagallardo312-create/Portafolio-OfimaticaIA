@@ -1,4 +1,4 @@
-# Portafolio-OfimaticaI
+# Portafolio-Ofimatica
 # Portafolio de Herramientas Digitales e IA
 
 ## Sobre mí
